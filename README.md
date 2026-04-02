@@ -16,7 +16,7 @@ I am passionate about solving problems for others across the entire lifecycle of
 
 I build a variety of software and tools. While I spend most of my time on developer tools or internal business operations tooling, much of my closed-source software is user- or business-facing. 
 
-* [Dirt Road API](https://dirtroad.dev) — experimental API for x402 and the world of trustless agents  
+* [Dirt Road](https://dirtroad.dev) — checkout my work here
 * [Blog](https://thegreataxios.com/) — articles exploring various technical concepts and agentic developments
 
 If you like my work and want to support me, you can [buy me a coffee 💖](https://buymeacoffee.com/thegreataxios) if you are looking to support my open source contributions and products or email me at [sawyer@dirtroad.dev](mailto:sawyer@dirtroad.dev) if you are looking for a consultant to support strategy, operations, product, or engineering.
