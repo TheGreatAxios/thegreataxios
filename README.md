@@ -2,6 +2,11 @@
 
 AI Systems Builder | Agent Infrastructure | VP Developer Success @ [SKALE](https://skale.space)
 
+[![X/Twitter](https://img.shields.io/badge/-@thegreataxios-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/thegreataxios)
+[![LinkedIn](https://img.shields.io/badge/-Sawyer%20Cutler-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sawyercutler)
+[![Blog](https://img.shields.io/badge/-thegreataxios.com-FF7139?style=flat-square&logo=firefox&logoColor=white)](https://thegreataxios.com)
+[![GitHub](https://img.shields.io/badge/-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/TheGreatAxios)
+
 [![AI](https://img.shields.io/badge/-AI%2FAgents-FF6F61?style=flat-square&logo=openai&logoColor=white)]()
 [![Claude](https://img.shields.io/badge/-Claude-D97757?style=flat-square&logo=anthropic&logoColor=white)](https://claude.ai/)
 [![Cursor](https://img.shields.io/badge/-Cursor-1E1E1E?style=flat-square&logo=cursor&logoColor=white)]()
@@ -108,21 +113,8 @@ AI Systems Builder | Agent Infrastructure | VP Developer Success @ [SKALE](https
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Dirt Road — Building in the Open](https://thegreataxios.com)
-- [x402: Payments for the Internet](https://thegreataxios.com)
+- [Dirt Road — Building in the Open](https://thegreataxios.com/posts/dirt-road-building-in-the-open)
+- [x402: Payments for the Internet](https://thegreataxios.com/posts/x402-payments-for-the-internet)
 <!-- BLOG-POST-LIST:END -->
 
----
 
-## Connect
-
-[![X/Twitter](https://img.shields.io/badge/-@thegreataxios-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/thegreataxios)
-[![LinkedIn](https://img.shields.io/badge/-Sawyer%20Cutler-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sawyercutler)
-[![Blog](https://img.shields.io/badge/-thegreataxios.com-FF7139?style=flat-square&logo=firefox&logoColor=white)](https://thegreataxios.com)
-[![GitHub](https://img.shields.io/badge/-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/TheGreatAxios)
-
-**Email:** sawyer@dirtroad.dev
-
----
-
-*"Ship beats perfect."* — Currently shipping AI agents that pay for themselves.
