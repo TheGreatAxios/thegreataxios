@@ -27,70 +27,79 @@ AI Systems Builder | Agent Infrastructure | VP Developer Success @ [SKALE](https
 
 ### AI Dev Tooling & CLIs
 
-- **[prawl](https://github.com/TheGreatAxios/prawl)** — Browser harness for AI agents (CLI + programmatic control)
 - **[agent-skills](https://github.com/TheGreatAxios/agent-skills)** — Reusable agent capabilities framework
 - **[ai-sdk-privacy-filter-middleware](https://github.com/TheGreatAxios/ai-sdk-privacy-filter-middleware)** — Privacy-first middleware for AI SDK pipelines
+- **[llms-txt-generator](https://github.com/TheGreatAxios/llms-txt-generator)** — Generate llms.txt and llms-full.txt from docs
+- **[prawl](https://github.com/TheGreatAxios/prawl)** — Browser harness for AI agents (CLI + programmatic control)
 - **[privacy-python-server](https://github.com/TheGreatAxios/privacy-python-server)** — Multi-agent privacy infrastructure server
 - **[video-transcription-modal](https://github.com/TheGreatAxios/video-transcription-modal)** — Whisper-based transcription pipeline with Modal.com
-- **[llms-txt-generator](https://github.com/TheGreatAxios/llms-txt-generator)** — Generate llms.txt and llms-full.txt from docs
 
 ### Agent Deployment Templates
 
 - **[nanobot-railway-template](https://github.com/TheGreatAxios/nanobot-railway-template)** — 1-click deploy for Nanobot agents
-- **[railway-hermes-agent-template](https://github.com/TheGreatAxios/railway-hermes-agent-template)** — Hermes agent template (1 star)
 - **[nanoclaw-railway-template](https://github.com/TheGreatAxios/nanoclaw-railway-template)** — Nanoclaw deployment template
+- **[railway-hermes-agent-template](https://github.com/TheGreatAxios/railway-hermes-agent-template)** — Hermes agent template (1 star)
 - **[zeroclaw-railway-template](https://github.com/TheGreatAxios/zeroclaw-railway-template)** — Zeroclaw deployment template
 
 ### Blockchain, Payments & Onchain Infrastructure
 
-- **[agent0-cli](https://github.com/TheGreatAxios/agent0-cli)** — CLI for ERC-8004 agent portability and discovery
-- **[watchtower](https://github.com/TheGreatAxios/watchtower)** — Monitoring and watchdog tooling for Agent0 operations
-- **[armory](https://github.com/TheGreatAxios/armory)** — x402 SDK for agent-to-agent payments ([armory.sh](https://armory.sh))
-- **[eip3009-forwarder](https://github.com/TheGreatAxios/eip3009-forwarder)** — Payment forwarder contracts (5 stars)
-- **[x402-examples](https://github.com/TheGreatAxios/x402-examples)** — x402 integration examples (2 stars)
 - **[8004-skills](https://github.com/TheGreatAxios/8004-skills)** — Skills for ERC-8004 protocol
+- **[agent0-cli](https://github.com/TheGreatAxios/agent0-cli)** — CLI for ERC-8004 agent portability and discovery
+- **[armory](https://github.com/TheGreatAxios/armory)** — x402 SDK for agent-to-agent payments ([armory.sh](https://armory.sh))
 - **[confidential-poker](https://github.com/TheGreatAxios/confidential-poker)** — AI Texas Hold'em with SKALE CTXs
-- **[sfuel-station](https://github.com/Dirt-Road-Development/sfuel-station)** — sFUEL distribution contracts ([sfuelstation.com](https://sfuelstation.com))
-- **[sfuel-distribution-contract](https://github.com/Dirt-Road-Development/sfuel-distribution-contract)** — Automated SFUEL distribution system
-- **[skale-rng](https://github.com/Dirt-Road-Development/skale-rng)** — Verifiable random number generation for SKALE
-- **[skale-cli](https://github.com/TheGreatAxios/skale-cli)** — Developer CLI for SKALE network
+- **[docs.fairchain.ai](https://github.com/thegreataxios/docs.fairchain.ai)** — FAIR ecosystem technical documentation
+- **[eip3009-forwarder](https://github.com/TheGreatAxios/eip3009-forwarder)** — Payment forwarder contracts (5 stars)
 - **[gasless-rs](https://github.com/Dirt-Road-Development/gasless-rs)** — Gasless transaction infrastructure (Rust)
 - **[markdownfetch.com](https://markdownfetch.com)** — Agentic tool for content to markdown conversion (x402)
-- **[textmerchant.com](https://textmerchant.com)** — Conversion-focused content platform (x402)
-- **[skl-supply-ui](https://github.com/TheGreatAxios/skl-supply-ui)** — SKL token supply dashboard
+- **[sfuel-distribution-contract](https://github.com/Dirt-Road-Development/sfuel-distribution-contract)** — Automated SFUEL distribution system
+- **[sfuel-station](https://github.com/Dirt-Road-Development/sfuel-station)** — sFUEL distribution contracts ([sfuelstation.com](https://sfuelstation.com))
+- **[skale-cli](https://github.com/TheGreatAxios/skale-cli)** — Developer CLI for SKALE network
 - **[skale-ctxs-foundry-starter](https://github.com/TheGreatAxios/skale-ctxs-foundry-starter)** — Foundry starter for SKALE confidential transactions (CTXs)
-- **[docs.fairchain.ai](https://github.com/thegreataxios/docs.fairchain.ai)** — FAIR ecosystem technical documentation
+- **[skale-rng](https://github.com/Dirt-Road-Development/skale-rng)** — Verifiable random number generation for SKALE
+- **[skl-supply-ui](https://github.com/TheGreatAxios/skl-supply-ui)** — SKL token supply dashboard
+- **[textmerchant.com](https://textmerchant.com)** — Conversion-focused content platform (x402)
+- **[watchtower](https://github.com/TheGreatAxios/watchtower)** — Monitoring and watchdog tooling for Agent0 operations
+- **[x402-examples](https://github.com/TheGreatAxios/x402-examples)** — x402 integration examples (2 stars)
 
 ---
 
 ### Contributions
 
 **Ethereum & Web3 Infrastructure**
-- [viem](https://github.com/wevm/viem) — TypeScript interface for Ethereum ([viem.sh](https://viem.sh))
-- [ox](https://github.com/wevm/ox) — Ethereum runtime library ([oxlib.sh](https://oxlib.sh))
 - [better-auth](https://github.com/better-auth/better-auth) — Auth framework for modern apps
+- [ox](https://github.com/wevm/ox) — Ethereum runtime library ([oxlib.sh](https://oxlib.sh))
+- [viem](https://github.com/wevm/viem) — TypeScript interface for Ethereum ([viem.sh](https://viem.sh))
 
 **Payments & x402 Ecosystem**
-- [x402](https://github.com/coinbase/x402) — HTTP payment protocol (Coinbase) ([x402.org](https://x402.org))
-- [faremeter](https://github.com/faremeter/faremeter) — Universal machine payments framework ([faremeter.xyz](https://faremeter.xyz))
 - [awesome-x402](https://github.com/merit-systems/awesome-x402) — Curated x402 ecosystem resources
+- [faremeter](https://github.com/faremeter/faremeter) — Universal machine payments framework ([faremeter.xyz](https://faremeter.xyz))
+- [x402](https://github.com/coinbase/x402) — HTTP payment protocol (Coinbase) ([x402.org](https://x402.org))
 
 **Agent0 Protocol**
 - [agent0lab/skills](https://github.com/agent0lab/skills) — Agent0 skills for onchain coordination
 - [agent0lab/subgraph](https://github.com/agent0lab/subgraph) — Multi-chain subgraph for ERC-8004 agents
 
 **SKALE Network**
-- [skalenetwork/skale-cli](https://github.com/skalenetwork/skale-cli) — Official SKALE CLI
-- [skalenetwork/docs.skale.space](https://github.com/skalenetwork/docs.skale.space) — SKALE documentation
-- [skalenetwork/portal](https://github.com/skalenetwork/portal) — IMA bridging & SKL staking ([portal.skale.space](https://portal.skale.space))
-- [skalenetwork/metaport](https://github.com/skalenetwork/metaport) — IMA bridging widget
 - [skalenetwork/bite-extension](https://github.com/skalenetwork/bite-extension) — BITE confidential wallet extension
 - [skalenetwork/bite-ts](https://github.com/skalenetwork/bite-ts) — BITE encryption library
+- [skalenetwork/docs.skale.space](https://github.com/skalenetwork/docs.skale.space) — SKALE documentation
+- [skalenetwork/faremeter-plugin](https://github.com/skalenetwork/faremeter-plugin) — SKALE x402 plugin
+- [skalenetwork/metaport](https://github.com/skalenetwork/metaport) — IMA bridging widget
 - [skalenetwork/mpp-sdk](https://github.com/skalenetwork/mpp-sdk) — Machine Payments Protocol SDK
 - [skalenetwork/oracle-sdk](https://github.com/skalenetwork/oracle-sdk) — SKALE oracle integration SDK
-- [skalenetwork/skills](https://github.com/skalenetwork/skills) — SKALE agent skills
-- [skalenetwork/faremeter-plugin](https://github.com/skalenetwork/faremeter-plugin) — SKALE x402 plugin
 - [skalenetwork/peer-solidity-hooks](https://github.com/skalenetwork/peer-solidity-hooks) — SKALE bridge hooks for zkp2p
+- [skalenetwork/portal](https://github.com/skalenetwork/portal) — IMA bridging & SKL staking ([portal.skale.space](https://portal.skale.space))
+- [skalenetwork/skale-cli](https://github.com/skalenetwork/skale-cli) — Official SKALE CLI
+- [skalenetwork/skills](https://github.com/skalenetwork/skills) — SKALE agent skills
+
+---
+
+## Railway Templates (1-Click Deploy)
+
+- **[Nanobot](https://railway.com/deploy/nanobot-3?referralCode=ayyhbt&utm_medium=integration&utm_source=template&utm_campaign=generic)** — Deploy an AI agent with memory, tools, and MCP support
+- **[Nanoclaw](https://github.com/TheGreatAxios/nanoclaw-railway-template)** — Claude-powered agent deployment template
+- **[Railway Hermes](https://github.com/TheGreatAxios/railway-hermes-agent-template)** — Hermes agent template for Railway
+- **[Zeroclaw](https://github.com/TheGreatAxios/zeroclaw-railway-template)** — Zeroclaw agent deployment template
 
 ---
 
