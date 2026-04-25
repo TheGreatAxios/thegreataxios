@@ -32,6 +32,8 @@ AI Systems Builder | Agent Infrastructure | VP Developer Success @ [SKALE](https
 - **[llms-txt-generator](https://github.com/TheGreatAxios/llms-txt-generator)** — Generate llms.txt and llms-full.txt from docs
 - **[prawl](https://github.com/TheGreatAxios/prawl)** — Browser harness for AI agents (CLI + programmatic control)
 - **[privacy-python-server](https://github.com/TheGreatAxios/privacy-python-server)** — Multi-agent privacy infrastructure server
+- **[triage-agent](https://github.com/TheGreatAxios/triage-agent)** — Triage agent on Cloudflare Workers — Telegram ingestion, Slack escalation, and Linear bug/feature management
+- **[privacy-filter-python](https://github.com/TheGreatAxios/privacy-filter-python)** — Local-first PII detection and reversible redaction library with drop-in guardrails for NanoBot and OpenAI Agents SDK
 - **[video-transcription-modal](https://github.com/TheGreatAxios/video-transcription-modal)** — Whisper-based transcription pipeline with Modal.com
 
 ### Agent Deployment Templates
