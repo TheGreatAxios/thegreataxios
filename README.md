@@ -117,15 +117,6 @@ AI Systems Builder | Agent Infrastructure | VP Developer Success @ [SKALE](https
 - **Agent-to-agent payments** — Making machines pay for themselves with x402
 - **LLM infrastructure** — Privacy middleware, transcription pipelines, and agent orchestration
 - **Developer experience** — 1-click deploy templates and SDKs for shipping AI agents fast
-- **Writing** — Sharing learnings on [thegreataxios.com](https://thegreataxios.com)
+- **Writing** — Sharing learnings on [sawyercutler.com](https://sawyercutler.com)
 
 ---
-
-## Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- [Dirt Road — Building in the Open](https://thegreataxios.com/posts/dirt-road-building-in-the-open)
-- [x402: Payments for the Internet](https://thegreataxios.com/posts/x402-payments-for-the-internet)
-<!-- BLOG-POST-LIST:END -->
-
-
